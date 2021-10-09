@@ -18,14 +18,14 @@ function incrementWrongAnswer() {
 
 }
 
-function displayAdditionQuestions () {
+function displayAdditionQuestions() {
 
 }
 
-function displaySubstractQuestions () {
+function displaySubstractQuestions() {
 
 }
 
-function displaymultiplyQuestions () {
+function displaymultiplyQuestions() {
 
 }
